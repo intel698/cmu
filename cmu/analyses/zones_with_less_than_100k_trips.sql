@@ -1,0 +1,1 @@
+{# -- Group by and Having - Write a query which finds all the Zones where there are less than 100000 trips. #}
