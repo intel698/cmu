@@ -6,4 +6,5 @@ select
     count(*) as total_trips,
     sum(duration_sec) as total_time_inseconds
 from {{ref('mart__fact_all_bike_trips')}}
+where 1=1
 group by all

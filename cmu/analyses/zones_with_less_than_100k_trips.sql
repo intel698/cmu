@@ -1,1 +1,8 @@
-{# -- Group by and Having - Write a query which finds all the Zones where there are less than 100000 trips. #}
+{# -- Group by and Having - #}
+
+
+select zone, count(*)
+from {{ref("mart__fact_all_taxi_trips")}} trips
+join {{ref('mart__dim_locations') }} pl on trips.PUlocationID = pl.LocationID
+group by zone
+having count(*) < 100000

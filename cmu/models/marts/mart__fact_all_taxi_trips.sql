@@ -1,4 +1,4 @@
-select 'Yellow' as Type, dolocationid, pulocationid, tpep_pickup_datetime, tpep_dropoff_datetime, 
+select 'Yellow' as Type, dolocationid, pulocationid, tpep_pickup_datetime as pickup_datetime, tpep_dropoff_datetime as dropoff_datetime, 
 datediff('minute', tpep_pickup_datetime, tpep_dropoff_datetime) as duration_min,
 datediff('second', tpep_pickup_datetime, tpep_dropoff_datetime) as duration_sec,
 from {{ref('stg_yellow_tripdata')}}
