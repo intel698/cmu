@@ -1,0 +1,501 @@
+Borough,Borough:1,Zone,Zone:1,AverageTime
+Manhattan,Manhattan,SoHo,Two Bridges/Seward Park,14.3439703153989
+Queens,Brooklyn,Glendale,East New York,15.901875
+Staten Island,Staten Island,Saint George/New Brighton,Grymes Hill/Clifton,11.791784435651
+Bronx,Manhattan,Mount Hope,Washington Heights North,13.5931165540541
+Bronx,Bronx,Williamsbridge/Olinville,Longwood,20.2980501392758
+Queens,Queens,Maspeth,Elmhurst,10.2847716392806
+Bronx,Bronx,Highbridge,Westchester Village/Unionport,17.8845238095238
+Manhattan,Manhattan,Sutton Place/Turtle Bay North,West Village,21.0793695468618
+Queens,Queens,Steinway,Astoria,9.79136690647482
+Bronx,Bronx,Soundview/Bruckner,Williamsbridge/Olinville,14.0125707102451
+Manhattan,Brooklyn,Washington Heights South,Brighton Beach,57.1612903225807
+Manhattan,Manhattan,Murray Hill,East Village,10.8530817610063
+Manhattan,Manhattan,Morningside Heights,Hamilton Heights,9.57411612066169
+Queens,Manhattan,Old Astoria,Midtown East,21.262962962963
+Manhattan,Bronx,Washington Heights North,Mount Hope,13.7959935528437
+Brooklyn,Brooklyn,Greenpoint,Ocean Hill,28.1803977272727
+Manhattan,Manhattan,East Chelsea,Union Sq,10.3382352941176
+Manhattan,Manhattan,Flatiron,Lenox Hill West,20.4247017091261
+Bronx,Bronx,Mott Haven/Port Morris,Melrose South,8.36210265763418
+Bronx,Unknown,Longwood,NA,33.410085054678
+Queens,Queens,Kew Gardens,Forest Hills,9.56973702326862
+Bronx,Bronx,Longwood,Kingsbridge Heights,21.9936305732484
+Manhattan,Brooklyn,East Village,Greenpoint,18.5021834061135
+Manhattan,Bronx,East Harlem North,Hunts Point,17.9144003566652
+Queens,Queens,Flushing,Elmhurst,27.4055299539171
+Brooklyn,Brooklyn,South Williamsburg,Boerum Hill,17.884375
+Brooklyn,Brooklyn,Windsor Terrace,Clinton Hill,19.9035433070866
+Brooklyn,Brooklyn,Red Hook,East Flatbush/Remsen Village,32.0238907849829
+Bronx,Bronx,Mount Hope,Mount Hope,7.98736066005442
+Manhattan,Manhattan,Upper East Side South,Kips Bay,16.4809602649007
+Manhattan,Manhattan,Clinton East,Upper West Side South,10.0916023520764
+Brooklyn,Brooklyn,Ocean Hill,Brownsville,9.19367618478098
+Queens,Brooklyn,Laurelton,Clinton Hill,43.1071428571429
+Manhattan,Bronx,Manhattanville,East Concourse/Concourse Village,18.6848159509202
+Brooklyn,Brooklyn,Flatlands,Flatbush/Ditmas Park,10.6234660925727
+Queens,Queens,Elmhurst,East Elmhurst,13.8889663182346
+Queens,Queens,Astoria,East Elmhurst,13.0393939393939
+Brooklyn,Brooklyn,Downtown Brooklyn/MetroTech,East Flatbush/Remsen Village,29.695274831244
+Bronx,Bronx,Woodlawn/Wakefield,Parkchester,17.8703448275862
+Bronx,Bronx,Highbridge,Williamsbridge/Olinville,21.3078231292517
+Manhattan,Manhattan,Upper West Side South,Financial District North,28.9699398797595
+Brooklyn,Brooklyn,Bedford,Coney Island,37.4515418502203
+Brooklyn,Brooklyn,Madison,Marine Park/Mill Basin,11.1942857142857
+Brooklyn,Manhattan,Greenpoint,Upper West Side South,29.1554770318021
+Queens,Queens,Laurelton,Laurelton,6.72513996267662
+Bronx,Bronx,Soundview/Bruckner,West Farms/Bronx River,6.0558197747184
+Manhattan,Brooklyn,Washington Heights South,Bedford,43.4459930313589
+Brooklyn,Manhattan,Williamsburg (South Side),Murray Hill,22.627374301676
+Manhattan,Brooklyn,Upper East Side South,Clinton Hill,35.7126213592233
+Manhattan,Manhattan,Lenox Hill West,Lincoln Square East,12.404154096078
+Bronx,Manhattan,East Concourse/Concourse Village,Central Harlem North,13.5616979269497
+Manhattan,Manhattan,Penn Station/Madison Sq West,Greenwich Village North,11.7067793800762
+Brooklyn,Brooklyn,Bensonhurst East,Brighton Beach,13.2081902893575
+Manhattan,Manhattan,Union Sq,SoHo,12.6142520612485
+Manhattan,Manhattan,Washington Heights North,Washington Heights South,9.41137947050627
+Manhattan,Manhattan,Washington Heights South,Upper West Side South,15.7910147518999
+Manhattan,Manhattan,Little Italy/NoLiTa,Gramercy,9.69255874673629
+Manhattan,Queens,Greenwich Village North,Jackson Heights,29.0921052631579
+Bronx,Bronx,East Concourse/Concourse Village,Pelham Parkway,21.5551601423488
+Brooklyn,Brooklyn,Williamsburg (South Side),Bedford,12.5778655416928
+Bronx,Bronx,East Concourse/Concourse Village,Mount Hope,9.38195682313329
+Manhattan,Manhattan,Greenwich Village North,Upper East Side North,24.9945681694731
+Bronx,Bronx,Woodlawn/Wakefield,Norwood,11.3361486486487
+Brooklyn,Brooklyn,Gowanus,Bedford,19.8237490664675
+Brooklyn,Brooklyn,Cypress Hills,Crown Heights South,22.3640939597315
+Bronx,Bronx,East Concourse/Concourse Village,Highbridge,9.33341702234497
+Manhattan,Queens,Penn Station/Madison Sq West,Hollis,43.5151515151515
+Manhattan,Manhattan,East Chelsea,Lincoln Square East,13.4275300171527
+Manhattan,Brooklyn,SoHo,Gowanus,23.8358974358974
+Queens,Queens,Corona,Forest Hills,11.3848234171174
+Manhattan,Manhattan,Yorkville West,Greenwich Village South,24.2289972899729
+Bronx,Bronx,Crotona Park East,Hunts Point,8.49942647396192
+Manhattan,Manhattan,Times Sq/Theatre District,Union Sq,13.5602127659574
+Manhattan,Brooklyn,Upper East Side South,Boerum Hill,32.8933092224232
+Manhattan,Bronx,East Harlem North,Mott Haven/Port Morris,10.973958797824
+Brooklyn,Brooklyn,Bushwick South,East Flatbush/Remsen Village,20.0235207644248
+Manhattan,Brooklyn,Central Harlem North,Greenpoint,28.3837471783296
+Brooklyn,Manhattan,Williamsburg (South Side),West Village,23.0613362541073
+Bronx,Bronx,East Tremont,Mott Haven/Port Morris,15.945870275315
+Manhattan,Manhattan,Gramercy,UN/Turtle Bay South,9.57082399800846
+Queens,Queens,North Corona,Jackson Heights,10.5280592361652
+Manhattan,Manhattan,East Chelsea,Yorkville West,22.8996466431095
+Queens,Brooklyn,Baisley Park,Ocean Parkway South,35
+Manhattan,Manhattan,Lincoln Square East,UN/Turtle Bay South,15.5259189443921
+Bronx,Bronx,Crotona Park East,Mott Haven/Port Morris,14.4094663278272
+Manhattan,Manhattan,SoHo,Little Italy/NoLiTa,8.67202654415518
+Queens,Queens,Briarwood/Jamaica Hills,South Jamaica,10.9398148148148
+Brooklyn,Manhattan,Brooklyn Heights,East Chelsea,25.660542432196
+Manhattan,Brooklyn,Two Bridges/Seward Park,Clinton Hill,20.6354166666667
+Manhattan,Manhattan,Midtown Center,Clinton West,12.2032258064516
+Bronx,Bronx,Mount Hope,Pelham Parkway,17.4646754738656
+Brooklyn,Brooklyn,Bath Beach,Bath Beach,7.19846153846154
+Manhattan,Brooklyn,East Village,Crown Heights North,28.9487254614708
+Queens,Queens,Elmhurst/Maspeth,Jackson Heights,10.8679696848823
+Bronx,Queens,Schuylerville/Edgewater Park,Old Astoria,21.9782608695652
+Brooklyn,Brooklyn,Williamsburg (North Side),Greenpoint,7.79045131330721
+Brooklyn,Brooklyn,Manhattan Beach,Gravesend,9.90358744394619
+Bronx,Manhattan,Crotona Park,Alphabet City,28.6666666666667
+Manhattan,Manhattan,Financial District North,Murray Hill,16.5719663418955
+Manhattan,Manhattan,Central Harlem,Marble Hill,23.318407960199
+Brooklyn,Brooklyn,Crown Heights South,Flatbush/Ditmas Park,14.7992371009837
+Brooklyn,Brooklyn,Crown Heights North,Park Slope,14.7909297364256
+Queens,Queens,East Flushing,College Point,35.9314024390244
+Manhattan,Brooklyn,Financial District North,Williamsburg (North Side),21.4168853893263
+Bronx,Bronx,Longwood,Hunts Point,7.38736695166638
+Manhattan,Brooklyn,Flatiron,Williamsburg (North Side),27.4237895995218
+Brooklyn,Brooklyn,Fort Greene,Borough Park,25.8426763110307
+Manhattan,Manhattan,Flatiron,UN/Turtle Bay South,14.6913233458177
+Bronx,Bronx,Mott Haven/Port Morris,Longwood,10.7124082607954
+Brooklyn,Brooklyn,Bushwick South,Bedford,11.6398522357612
+Manhattan,Manhattan,Central Harlem North,Central Harlem North,7.78297914255461
+Manhattan,Manhattan,Greenwich Village North,Penn Station/Madison Sq West,10.7291871402499
+Manhattan,Bronx,Financial District North,Claremont/Bathgate,37.4794520547945
+Manhattan,Manhattan,Midtown South,Washington Heights North,29.6439306358382
+Bronx,Bronx,Norwood,Pelham Parkway,13.1946372994972
+Brooklyn,Brooklyn,Williamsburg (North Side),Crown Heights North,22.7340276698275
+Brooklyn,Manhattan,Greenpoint,Upper East Side North,25.6520179372197
+Manhattan,Manhattan,Midtown Center,Times Sq/Theatre District,9.70531062124249
+Queens,Manhattan,JFK Airport,Midtown South,43.653477041193
+Brooklyn,Brooklyn,East New York/Pennsylvania Avenue,East New York,8.75625361182201
+Brooklyn,Brooklyn,Prospect-Lefferts Gardens,Flatbush/Ditmas Park,11.7751165123002
+Manhattan,Queens,East Village,Woodside,21.3854838709677
+Brooklyn,Manhattan,Williamsburg (South Side),Stuy Town/Peter Cooper Village,18.048
+Manhattan,Manhattan,Union Sq,Little Italy/NoLiTa,13.3627155432292
+Manhattan,Manhattan,UN/Turtle Bay South,Flatiron,14.531240188383
+Manhattan,Queens,UN/Turtle Bay South,Long Island City/Queens Plaza,14.1989619377163
+Bronx,Bronx,Crotona Park East,West Farms/Bronx River,7.52732692944684
+Bronx,Bronx,East Tremont,Williamsbridge/Olinville,15.8071608040201
+Bronx,Bronx,Mount Hope,Soundview/Bruckner,14.9872188139059
+Queens,Queens,Baisley Park,Woodside,25.3258426966292
+Manhattan,Brooklyn,East Village,Williamsburg (North Side),18.7404951370469
+Bronx,Queens,East Concourse/Concourse Village,Astoria,22.3939393939394
+Brooklyn,Bronx,Bushwick South,Norwood,41.3833333333333
+Bronx,Bronx,Longwood,Mott Haven/Port Morris,10.0132843908408
+Brooklyn,Queens,East Williamsburg,Maspeth,11.6027624309392
+Queens,Queens,South Jamaica,Jackson Heights,24.1649269311065
+Manhattan,Manhattan,Clinton West,Clinton East,6.68747913188648
+Manhattan,Bronx,Central Harlem,Melrose South,18.3680873547024
+Manhattan,Manhattan,Kips Bay,Yorkville West,14.7220861900098
+Manhattan,Manhattan,Stuy Town/Peter Cooper Village,Meatpacking/West Village West,17.0014005602241
+Manhattan,EWR,Washington Heights North,Newark Airport,38.9087719298246
+Bronx,Bronx,West Farms/Bronx River,Bronxdale,10.0857142857143
+Brooklyn,Brooklyn,Brighton Beach,Homecrest,10.0076634344698
+Brooklyn,Manhattan,Clinton Hill,East Village,21.2956751985878
+Brooklyn,Brooklyn,Bedford,Downtown Brooklyn/MetroTech,16.047981721249
+Queens,Queens,Steinway,LaGuardia Airport,12.0345600597796
+Bronx,Bronx,Crotona Park East,Belmont,11.7179487179487
+Brooklyn,Brooklyn,Brooklyn Heights,Park Slope,14.8346755092373
+Queens,Queens,Queens Village,LaGuardia Airport,23.2381729200653
+Manhattan,Queens,Penn Station/Madison Sq West,LaGuardia Airport,31.5048449612403
+Brooklyn,Brooklyn,Bedford,East New York,27.0734321550741
+Manhattan,Queens,Lenox Hill West,LaGuardia Airport,25.1479201641485
+Queens,Manhattan,Baisley Park,Central Harlem,35.7857142857143
+Manhattan,Bronx,Central Harlem North,Crotona Park East,21.3224489795918
+Manhattan,Manhattan,Hamilton Heights,Washington Heights South,8.69739322628876
+Brooklyn,Brooklyn,Bedford,Bushwick North,14.0602173913043
+Bronx,Bronx,Williamsbridge/Olinville,Melrose South,25.1749528005035
+Bronx,Bronx,Melrose South,West Concourse,11.9196731615336
+Manhattan,Manhattan,Upper West Side North,Central Harlem,11.6845253576073
+Manhattan,Manhattan,Little Italy/NoLiTa,West Chelsea/Hudson Yards,18.2938622459049
+Bronx,Manhattan,Williamsbridge/Olinville,Times Sq/Theatre District,40.1164021164021
+Queens,Manhattan,Astoria,Clinton West,28.6677595628415
+Manhattan,Manhattan,East Village,Lincoln Square West,24.406674907293
+Bronx,Bronx,Eastchester,Bronxdale,9.56382978723404
+Queens,Queens,Queens Village,JFK Airport,18.8485971413446
+Bronx,Unknown,Mott Haven/Port Morris,NA,34.5289108023308
+Brooklyn,Brooklyn,Gravesend,Crown Heights North,36.435261707989
+Queens,Brooklyn,Ozone Park,Bushwick South,24.4736842105263
+Manhattan,Manhattan,Clinton East,Penn Station/Madison Sq West,10.1415616354135
+Manhattan,Brooklyn,TriBeCa/Civic Center,Williamsburg (North Side),22.8321438766771
+Manhattan,Manhattan,Meatpacking/West Village West,Gramercy,13.6457943925234
+Brooklyn,Queens,Brownsville,LaGuardia Airport,30.4459459459459
+Manhattan,Brooklyn,Two Bridges/Seward Park,Cobble Hill,16.7644444444444
+Brooklyn,Manhattan,Bedford,East Village,24.2652380952381
+Bronx,Manhattan,Claremont/Bathgate,East Village,34.4745762711864
+Manhattan,Manhattan,Central Harlem North,Manhattanville,9.13202561235898
+Manhattan,Queens,Lenox Hill West,JFK Airport,43.411828247367
+Manhattan,Manhattan,Central Harlem North,Midtown East,22.2615480649189
+Manhattan,Manhattan,East Harlem North,Kips Bay,18.0766793409379
+Bronx,Manhattan,East Tremont,East Harlem North,20.344347826087
+Queens,Brooklyn,Rego Park,Park Slope,34.1397849462366
+Queens,Brooklyn,Elmhurst,Cobble Hill,31.6090909090909
+Manhattan,Manhattan,TriBeCa/Civic Center,World Trade Center,8.05822159491884
+Queens,Manhattan,Jackson Heights,Washington Heights South,27.4558629776021
+Brooklyn,Brooklyn,Borough Park,Sunset Park East,9.75486725663717
+Bronx,Manhattan,Hunts Point,East Village,35.6509433962264
+Queens,Queens,Elmhurst,Forest Hills,13.1801075268817
+Queens,Manhattan,Woodside,Upper East Side South,23.8318002628121
+Queens,Queens,Elmhurst,Long Island City/Hunters Point,19.519963285911
+Bronx,Bronx,Morrisania/Melrose,Woodlawn/Wakefield,22.0156599552573
+Bronx,Bronx,Parkchester,Highbridge,19.6238651102464
+Manhattan,Manhattan,TriBeCa/Civic Center,Hudson Sq,7.16513402465271
+Brooklyn,Manhattan,Ocean Hill,Lower East Side,31.1876543209877
+Brooklyn,Brooklyn,Crown Heights South,Stuyvesant Heights,15.307111226882
+Brooklyn,Brooklyn,Boerum Hill,East Flatbush/Farragut,25.7271255060729
+Brooklyn,Manhattan,Park Slope,Garment District,34.9352818371608
+Manhattan,Bronx,Inwood,University Heights/Morris Heights,12.1494227837073
+Brooklyn,Brooklyn,Bushwick North,Stuyvesant Heights,10.6189274017467
+Bronx,Bronx,Morrisania/Melrose,Co-Op City,21.1943734015345
+Manhattan,Manhattan,TriBeCa/Civic Center,Yorkville East,24.8296169239565
+Manhattan,Queens,East Chelsea,Sunnyside,26.069512195122
+Manhattan,Manhattan,Two Bridges/Seward Park,Lower East Side,7.69287416071042
+Brooklyn,Brooklyn,East Flatbush/Farragut,Flatlands,9.84882211092562
+Brooklyn,Brooklyn,Prospect Heights,Prospect-Lefferts Gardens,11.8367579908676
+Brooklyn,Brooklyn,Stuyvesant Heights,Flatbush/Ditmas Park,26.3107634205557
+Brooklyn,Brooklyn,East Flatbush/Farragut,East Flatbush/Remsen Village,9.07935202697147
+Manhattan,Manhattan,Hudson Sq,Financial District South,13.4660633484163
+Brooklyn,Brooklyn,Canarsie,Brownsville,12.3447249007374
+Bronx,Bronx,University Heights/Morris Heights,East Concourse/Concourse Village,12.9226826768194
+Bronx,Bronx,Co-Op City,Claremont/Bathgate,22.6587813620072
+Manhattan,Queens,Lower East Side,Long Island City/Hunters Point,19.55375782881
+Bronx,Bronx,University Heights/Morris Heights,Van Cortlandt Village,10.5346820809249
+Brooklyn,Brooklyn,Prospect Heights,Crown Heights North,10.36018735363
+Queens,Queens,Sunnyside,Queensbridge/Ravenswood,12.7155612244898
+Manhattan,Manhattan,Bloomingdale,Morningside Heights,5.6794551645857
+Brooklyn,Bronx,Prospect Heights,East Concourse/Concourse Village,40.5333333333333
+Manhattan,Unknown,Lower East Side,NA,35.8416924173996
+Manhattan,Manhattan,Garment District,Meatpacking/West Village West,14.054477919934
+Queens,Queens,Sunnyside,JFK Airport,33.4803188839063
+Manhattan,Manhattan,Garment District,Lincoln Square West,14.2031802120141
+Queens,Queens,Corona,Long Island City/Hunters Point,19.8970917225951
+Queens,Queens,Sunnyside,Astoria,10.2412667714251
+Brooklyn,Brooklyn,Prospect Heights,Crown Heights South,9.60880941997383
+Bronx,Manhattan,University Heights/Morris Heights,Lenox Hill East,25.5651105651106
+Manhattan,Manhattan,Penn Station/Madison Sq West,Greenwich Village South,14.829708568943
+Bronx,Bronx,Van Nest/Morris Park,Westchester Village/Unionport,8.45463530341965
+Queens,Queens,Astoria,Forest Hills,19.9626612355737
+Bronx,Bronx,Westchester Village/Unionport,West Farms/Bronx River,8.9625918503674
+Manhattan,Brooklyn,Sutton Place/Turtle Bay North,Clinton Hill,29.2176165803109
+Manhattan,Manhattan,Midtown North,Union Sq,14.5075994894999
+Queens,Manhattan,Long Island City/Queens Plaza,Upper East Side South,14.6959183673469
+Brooklyn,Brooklyn,Marine Park/Mill Basin,Brownsville,20.2312757201646
+Queens,Queens,Laurelton,Queensboro Hill,25.6842105263158
+Bronx,Manhattan,Bronxdale,Washington Heights South,24.2815356489945
+Queens,Queens,East Elmhurst,Old Astoria,14.455896007428
+Manhattan,Brooklyn,East Village,DUMBO/Vinegar Hill,17.9802599903707
+Bronx,Manhattan,West Farms/Bronx River,Midtown South,34.0252100840336
+Brooklyn,Manhattan,Fort Greene,Union Sq,23.9900383141762
+Manhattan,Manhattan,Washington Heights South,Upper East Side North,23.0165107319758
+Manhattan,Manhattan,Yorkville West,East Harlem North,9.79150579150579
+Queens,Brooklyn,Whitestone,Greenpoint,26.1511627906977
+Queens,Queens,Long Island City/Queens Plaza,Old Astoria,9.11002145265094
+Brooklyn,Queens,Williamsburg (North Side),Elmhurst,20.4688601645123
+Bronx,Bronx,Schuylerville/Edgewater Park,Bedford Park,21.0595744680851
+Bronx,Bronx,Soundview/Castle Hill,Schuylerville/Edgewater Park,8.9826968973747
+Brooklyn,Manhattan,Park Slope,Midtown North,38.038240917782
+Queens,Queens,Saint Albans,Laurelton,8.36258407633349
+Queens,Unknown,Richmond Hill,NA,34.2884554891475
+Queens,Manhattan,Maspeth,East Village,22.8531468531469
+Bronx,Manhattan,Morrisania/Melrose,East Harlem South,22.2552806276403
+Brooklyn,Manhattan,Carroll Gardens,East Village,22.2117903930131
+Manhattan,Queens,Washington Heights South,JFK Airport,40.5196729688298
+Bronx,Queens,West Concourse,Long Island City/Hunters Point,27.7368421052632
+Queens,Queens,Queensbridge/Ravenswood,Long Island City/Hunters Point,8.24071827226401
+Queens,Manhattan,Rego Park,Upper East Side South,29.0696721311475
+Manhattan,Manhattan,Union Sq,Greenwich Village North,6.91905977451606
+Queens,Manhattan,Astoria,Midtown East,20.9806512505899
+Manhattan,Manhattan,East Village,TriBeCa/Civic Center,13.8907301916106
+Brooklyn,Brooklyn,Columbia Street,Crown Heights South,22.5636363636364
+Brooklyn,Manhattan,Crown Heights South,East Village,29.9434782608696
+Manhattan,Unknown,West Village,NA,34.205216659655
+Manhattan,Manhattan,Inwood,Washington Heights South,12.1065539983512
+Manhattan,Manhattan,TriBeCa/Civic Center,Midtown South,17.5526947065409
+Manhattan,Manhattan,Financial District North,West Village,15.206406368461
+Brooklyn,Brooklyn,Bedford,Williamsburg (South Side),11.3671952877209
+Manhattan,Brooklyn,Union Sq,Windsor Terrace,30.8315789473684
+Manhattan,Manhattan,World Trade Center,Two Bridges/Seward Park,12.8032863849765
+Brooklyn,Brooklyn,Cypress Hills,Williamsburg (North Side),32.3247126436782
+Brooklyn,Brooklyn,Cypress Hills,Cypress Hills,7.29532837987873
+Queens,Queens,Saint Albans,Springfield Gardens North,8.93249009448339
+Bronx,Manhattan,Spuyten Duyvil/Kingsbridge,Hamilton Heights,17.4363839285714
+Manhattan,Manhattan,World Trade Center,Hamilton Heights,31.0689655172414
+Bronx,Bronx,Mount Hope,Highbridge,10.9987246931293
+Manhattan,Manhattan,SoHo,Greenwich Village North,8.58928210313448
+Brooklyn,Brooklyn,Sheepshead Bay,Brownsville,27.6913145539906
+Manhattan,Manhattan,Clinton East,Midtown North,8.92632927610506
+Manhattan,Brooklyn,Clinton East,Williamsburg (North Side),29.7031141868512
+Queens,Manhattan,Long Island City/Hunters Point,Yorkville West,17.1401925391095
+Manhattan,Manhattan,Morningside Heights,Manhattan Valley,7.17149672033393
+Queens,Unknown,Rosedale,NA,12.9564536980336
+Brooklyn,Brooklyn,Greenpoint,Kensington,26.1771653543307
+Bronx,Bronx,Pelham Parkway,Pelham Parkway,7.38914148167959
+Bronx,Bronx,Fordham South,Melrose South,19.014402003757
+Queens,Manhattan,Old Astoria,Manhattanville,24.8636363636364
+Queens,Queens,Queens Village,Hollis,7.19247952345495
+Brooklyn,Manhattan,Williamsburg (South Side),Financial District North,20.601246105919
+Brooklyn,Brooklyn,Boerum Hill,East New York,34.8101265822785
+Brooklyn,Queens,Park Slope,Forest Hills,35.1594684385382
+Brooklyn,Brooklyn,Homecrest,Marine Park/Mill Basin,15.9884748367269
+Queens,Queens,Howard Beach,Glendale,19.122621564482
+Brooklyn,Brooklyn,Bedford,Prospect Park,17.3096774193548
+Bronx,Bronx,Soundview/Bruckner,Westchester Village/Unionport,8.39541984732824
+Bronx,Bronx,Bedford Park,East Concourse/Concourse Village,17.2020833333333
+Bronx,Manhattan,Van Cortlandt Village,Central Harlem North,18.4467120181406
+Staten Island,Staten Island,Port Richmond,Port Richmond,18.7714486638537
+Manhattan,Bronx,East Chelsea,East Concourse/Concourse Village,34.8554502369668
+Manhattan,Manhattan,East Village,Flatiron,12.5481593995711
+Manhattan,Bronx,Clinton West,East Concourse/Concourse Village,25.8673139158576
+Brooklyn,Brooklyn,Ocean Hill,Ocean Hill,8.98634840871022
+Bronx,Bronx,Melrose South,Crotona Park East,12.9425962165688
+Manhattan,Brooklyn,Flatiron,Greenpoint,24.6004636785162
+Manhattan,Manhattan,Upper East Side North,Murray Hill,17.9279119767295
+Brooklyn,Brooklyn,Sunset Park West,Flatbush/Ditmas Park,19.0410902333265
+Brooklyn,Brooklyn,Flatlands,Marine Park/Mill Basin,7.9195697543747
+Bronx,Bronx,East Concourse/Concourse Village,Soundview/Bruckner,17.4396929824561
+Queens,Queens,Flushing,Queensboro Hill,9.53715467572758
+Manhattan,Bronx,East Village,Longwood,38.2827586206897
+Manhattan,Manhattan,West Chelsea/Hudson Yards,East Village,19.7876571721837
+Manhattan,Manhattan,East Village,Meatpacking/West Village West,14.7150927176716
+Brooklyn,Brooklyn,Midwood,Bensonhurst West,15.4584471322669
+Bronx,Bronx,Mount Hope,Norwood,15.2868874172185
+Bronx,Bronx,Soundview/Bruckner,Hunts Point,9.5745881290905
+Manhattan,Manhattan,Union Sq,Greenwich Village South,9.83124734832414
+Manhattan,Manhattan,Penn Station/Madison Sq West,Little Italy/NoLiTa,18.8389496717724
+Queens,Manhattan,Jackson Heights,West Village,37.7814569536424
+Queens,Queens,College Point,Howard Beach,31.6071428571429
+Bronx,Bronx,Van Nest/Morris Park,West Farms/Bronx River,10.0975271550728
+Queens,Queens,Flushing,Whitestone,25.5087802562886
+Manhattan,Bronx,Inwood,Morrisania/Melrose,21.1010204081633
+Brooklyn,Manhattan,Boerum Hill,TriBeCa/Civic Center,15.6696856686201
+Manhattan,Manhattan,Clinton East,Midtown South,12.0658135283364
+Brooklyn,Brooklyn,Bushwick South,Brighton Beach,39.6
+Brooklyn,EWR,Williamsburg (South Side),Newark Airport,47.2527254707631
+Queens,Queens,Rego Park,Astoria,19.9598360655738
+Manhattan,Manhattan,Yorkville West,Greenwich Village North,22.4476510067114
+Queens,Queens,East Elmhurst,Woodside,12.2376884422111
+Manhattan,Bronx,Central Harlem North,West Concourse,10.0958495993425
+Queens,Queens,Forest Hills,Elmhurst,13.4301967608085
+Brooklyn,Brooklyn,Ocean Parkway South,Homecrest,8.44238912413639
+Bronx,Bronx,Soundview/Castle Hill,Allerton/Pelham Gardens,14.2681505034446
+Queens,Manhattan,Queensbridge/Ravenswood,Greenwich Village North,28.9272727272727
+Brooklyn,Manhattan,Cobble Hill,Greenwich Village South,20.3549382716049
+Manhattan,Brooklyn,Yorkville West,Boerum Hill,27.9057142857143
+Queens,Brooklyn,Long Island City/Hunters Point,Bushwick South,23.1997187060478
+Brooklyn,Manhattan,Williamsburg (North Side),Union Sq,25.0140495867769
+Brooklyn,Brooklyn,Flatbush/Ditmas Park,Boerum Hill,22.05
+Manhattan,Manhattan,Midtown Center,West Chelsea/Hudson Yards,16.6358722850566
+Queens,Queens,Astoria,Long Island City/Hunters Point,12.6477874594225
+Brooklyn,Queens,Cobble Hill,LaGuardia Airport,26.3539703903096
+Queens,Brooklyn,Forest Hills,East Williamsburg,23.0254110612855
+Manhattan,Manhattan,Washington Heights North,East Chelsea,25.8905027932961
+Queens,Brooklyn,Jackson Heights,Bushwick South,26.2942942942943
+Manhattan,Bronx,Upper West Side South,Highbridge,27.3832116788321
+Manhattan,Manhattan,Kips Bay,Lower East Side,13.2637592839459
+Brooklyn,Brooklyn,Cobble Hill,Prospect Heights,13.9278350515464
+Manhattan,Manhattan,Clinton East,Central Park,12.9051844932275
+Manhattan,Queens,Penn Station/Madison Sq West,Corona,31.1871921182266
+Brooklyn,Manhattan,Fort Greene,Lower East Side,13.2376940133038
+Queens,Brooklyn,Springfield Gardens North,East Flatbush/Farragut,33.8472222222222
+Brooklyn,Manhattan,Greenpoint,Garment District,22.928
+Queens,Queens,Saint Albans,Jamaica Estates,11.8965779467681
+Manhattan,Brooklyn,TriBeCa/Civic Center,Canarsie,46.2596899224806
+Manhattan,Manhattan,TriBeCa/Civic Center,Seaport,8.72545964474914
+Brooklyn,Brooklyn,Flatlands,Stuyvesant Heights,26.3970588235294
+Brooklyn,Brooklyn,East Williamsburg,Prospect Heights,21.5755003032141
+Queens,Queens,Far Rockaway,Springfield Gardens South,19.8684834123223
+Brooklyn,Brooklyn,Bensonhurst West,Dyker Heights,8.36044628396617
+Queens,Queens,Hollis,Jamaica,10.5889692585895
+Manhattan,Manhattan,East Chelsea,Lower East Side,22.3995132127956
+Manhattan,Manhattan,Hudson Sq,Midtown Center,20.3433495360141
+Brooklyn,Brooklyn,Prospect Heights,Erasmus,16.6597294484912
+Manhattan,Manhattan,Lower East Side,Lenox Hill West,17.5842068483578
+Brooklyn,Brooklyn,Prospect Heights,Fort Greene,9.0855354659249
+Manhattan,Manhattan,Central Park,Gramercy,20.9056742815033
+Manhattan,Manhattan,Bloomingdale,Lincoln Square West,14.8319783197832
+Staten Island,Staten Island,Westerleigh,Mariners Harbor,10.9619826756497
+Queens,Queens,Jamaica,South Jamaica,8.58420775238369
+Manhattan,Manhattan,Bloomingdale,TriBeCa/Civic Center,28.5918367346939
+Brooklyn,Queens,Prospect Heights,Elmhurst,28.7190082644628
+Manhattan,Queens,Lower East Side,Cambria Heights,62.6607142857143
+Manhattan,Manhattan,Hudson Sq,East Harlem North,29.155737704918
+Queens,Queens,Hillcrest/Pomonok,Briarwood/Jamaica Hills,8.32347826086957
+Queens,Queens,Jamaica,Baisley Park,12.0665719023928
+Manhattan,Brooklyn,Lower East Side,Columbia Street,17.6835443037975
+Manhattan,Manhattan,Seaport,Upper East Side South,21.2525849335303
+Bronx,Brooklyn,Co-Op City,Williamsburg (North Side),39.9761904761905
+Brooklyn,Staten Island,Canarsie,Grymes Hill/Clifton,34.3695652173913
+Queens,Queens,Jamaica,Briarwood/Jamaica Hills,7.87939934303144
+Queens,Queens,Sunnyside,Maspeth,11.079568788501
+Bronx,Bronx,West Concourse,Spuyten Duyvil/Kingsbridge,16.4481163251818
+Queens,Staten Island,Steinway,Grymes Hill/Clifton,47
+Manhattan,Bronx,Washington Heights South,Fordham South,17.8306613226453
+Manhattan,Manhattan,Midtown South,East Village,13.6609093455326
+Bronx,Bronx,Westchester Village/Unionport,Westchester Village/Unionport,7.80847562229994
+Bronx,Bronx,Soundview/Castle Hill,Morrisania/Melrose,16.0610882956879
+Bronx,Bronx,Highbridge,Mott Haven/Port Morris,13.0101892285298
+Manhattan,Brooklyn,Little Italy/NoLiTa,Downtown Brooklyn/MetroTech,13.1293356848912
+Brooklyn,Brooklyn,Boerum Hill,Williamsburg (South Side),17.880871852687
+Brooklyn,Manhattan,East Williamsburg,Midtown South,24.3534057255676
+Manhattan,Bronx,Clinton East,Bedford Park,31.5183246073298
+Manhattan,Manhattan,Kips Bay,Union Sq,10.0757493923846
+Manhattan,Queens,East Harlem South,Long Island City/Hunters Point,22.0313092979127
+Manhattan,Manhattan,Upper East Side North,West Village,28.0079772079772
+Manhattan,Manhattan,Two Bridges/Seward Park,Central Harlem,26.2440056417489
+Manhattan,Manhattan,East Chelsea,Upper East Side South,19.6538395758509
+Manhattan,Manhattan,Washington Heights North,Upper West Side North,17.6568449682684
+Bronx,Bronx,Woodlawn/Wakefield,Mount Hope,20.9980952380952
+Brooklyn,Manhattan,East Williamsburg,Upper West Side South,33.1389521640091
+Manhattan,Manhattan,Sutton Place/Turtle Bay North,Murray Hill,9.08073476702509
+Manhattan,Manhattan,Penn Station/Madison Sq West,Hamilton Heights,27.1094170403587
+Queens,Queens,Elmhurst,Glendale,17.015923566879
+Bronx,Unknown,Soundview/Castle Hill,NA,28.4196035242291
+Brooklyn,Brooklyn,Williamsburg (South Side),Midwood,32.4243902439024
+Manhattan,Manhattan,Greenwich Village North,Midtown South,10.9817712811694
+Manhattan,Manhattan,Clinton West,Washington Heights North,20.9045904590459
+Manhattan,Manhattan,Manhattan Valley,Midtown North,17.3442748091603
+Manhattan,Manhattan,Union Sq,Midtown Center,12.0170042680035
+Manhattan,Queens,Midtown Center,Fresh Meadows,42.0762711864407
+Manhattan,Brooklyn,Stuy Town/Peter Cooper Village,Clinton Hill,24.0403587443946
+Brooklyn,Brooklyn,Marine Park/Mill Basin,Borough Park,28.7047619047619
+Manhattan,Manhattan,Sutton Place/Turtle Bay North,Kips Bay,9.24973242953978
+Manhattan,Manhattan,Upper East Side North,Upper West Side North,10.0963570327977
+Bronx,Bronx,Pelham Bay,Mott Haven/Port Morris,19.152466367713
+Manhattan,Brooklyn,Greenwich Village North,Bushwick South,29.5673076923077
+Manhattan,Manhattan,East Village,Sutton Place/Turtle Bay North,12.8315967699922
+Bronx,Bronx,East Concourse/Concourse Village,Norwood,20.4340198321892
+Manhattan,Manhattan,West Village,East Village,11.9837323979462
+Manhattan,Bronx,Hamilton Heights,West Concourse,12.0305272895467
+Manhattan,Manhattan,Washington Heights South,Penn Station/Madison Sq West,26.1255605381166
+Bronx,Queens,East Concourse/Concourse Village,JFK Airport,39.2199108469539
+Manhattan,Queens,Gramercy,Glendale,32.9587628865979
+Brooklyn,Brooklyn,Downtown Brooklyn/MetroTech,Midwood,31.0422535211268
+Manhattan,Manhattan,Union Sq,Manhattan Valley,24.3141935483871
+Bronx,Manhattan,Morrisania/Melrose,Inwood,21.1675025075226
+Queens,Unknown,Hollis,NA,23.2406387665198
+Bronx,Manhattan,Bedford Park,Washington Heights South,20.8061398521887
+Brooklyn,Brooklyn,Bensonhurst West,Homecrest,12.7835732829832
+Brooklyn,Brooklyn,Park Slope,Bedford,17.7788461538462
+Queens,Queens,Ozone Park,Woodhaven,7.24149108589951
+Staten Island,Brooklyn,Mariners Harbor,Coney Island,31.1578947368421
+Manhattan,Manhattan,Marble Hill,Midtown North,27.8983050847458
+Manhattan,Bronx,Washington Heights South,Claremont/Bathgate,16.6541737649063
+Manhattan,Manhattan,SoHo,Midtown Center,22.1514434453384
+Brooklyn,Brooklyn,Brownsville,Park Slope,24.6944734098019
+Queens,Queens,Saint Albans,Elmhurst,28.3545310015898
+Queens,Unknown,Saint Albans,NA,22.5727092423641
+Bronx,Bronx,Soundview/Castle Hill,Van Nest/Morris Park,13.2419749532172
+Manhattan,Manhattan,Morningside Heights,East Harlem North,14.0189553496209
+Brooklyn,Manhattan,Red Hook,Yorkville West,32.2060606060606
+Bronx,Manhattan,Mott Haven/Port Morris,East Harlem South,14.1389263036367
+Manhattan,Bronx,Central Harlem North,Riverdale/North Riverdale/Fieldston,20.4178217821782
+Bronx,Brooklyn,Morrisania/Melrose,East New York,41.1948717948718
+Bronx,Bronx,Parkchester,Soundview/Bruckner,7.85661450924609
+Manhattan,Manhattan,Lenox Hill West,Central Harlem,17.2197006277161
+Manhattan,Bronx,East Harlem South,Mott Haven/Port Morris,14.124796880078
+Bronx,Bronx,East Tremont,Hunts Point,12.7651006711409
+Queens,Manhattan,LaGuardia Airport,Morningside Heights,28.4344533838145
+Queens,Queens,Far Rockaway,Rockaway Park,19.4257871064468
+Manhattan,Manhattan,Meatpacking/West Village West,West Chelsea/Hudson Yards,9.12778530099717
+Brooklyn,Brooklyn,Williamsburg (North Side),Prospect-Lefferts Gardens,28.3268003646308
+Brooklyn,Brooklyn,Homecrest,Manhattan Beach,11.0056412185032
+Queens,Queens,Glendale,Kew Gardens,12.2064846416382
+Brooklyn,Brooklyn,Downtown Brooklyn/MetroTech,Bedford,15.4121894245063
+Manhattan,Queens,Union Sq,Jackson Heights,28.0179640718563
+Manhattan,Manhattan,Battery Park City,East Village,16.4836689038031
+Queens,Queens,Forest Hills,North Corona,14.0421965317919
+Brooklyn,Manhattan,Brooklyn Heights,West Village,19.7144646211647
+Brooklyn,Brooklyn,Williamsburg (North Side),Fort Greene,17.1275045537341
+Brooklyn,Brooklyn,Columbia Street,Crown Heights North,20.8686868686869
+Manhattan,Manhattan,UN/Turtle Bay South,TriBeCa/Civic Center,20.1637369791667
+Manhattan,Manhattan,Little Italy/NoLiTa,Times Sq/Theatre District,24.9411620495219
+Manhattan,Unknown,East Harlem North,NA,37.0743673942438
+Brooklyn,Brooklyn,Kensington,East Williamsburg,27.8173076923077
+Bronx,Bronx,East Tremont,West Farms/Bronx River,8.77586636748941
+Manhattan,Manhattan,Manhattan Valley,Upper West Side South,9.32420905707196
+Queens,Queens,Fresh Meadows,South Jamaica,17.8860294117647
+Queens,Manhattan,JFK Airport,Lenox Hill East,41.5694668820679
+Brooklyn,Brooklyn,Starrett City,East New York/Pennsylvania Avenue,9.14610042735043
+Manhattan,Brooklyn,East Chelsea,East Williamsburg,28.8199658703072
+Brooklyn,Brooklyn,East New York/Pennsylvania Avenue,East New York/Pennsylvania Avenue,8.95831445400997
+Bronx,Bronx,Schuylerville/Edgewater Park,Bronxdale,15.1745913818722
+Manhattan,Manhattan,Midtown East,UN/Turtle Bay South,7.69611685073032
+Bronx,Bronx,Spuyten Duyvil/Kingsbridge,Van Cortlandt Village,7.79644783336433
+Manhattan,Brooklyn,Greenwich Village North,Brooklyn Heights,20.8813559322034
+Queens,Queens,Howard Beach,South Ozone Park,10.8101708074534
+Brooklyn,Manhattan,Brooklyn Heights,Financial District North,12.5029126213592
+Manhattan,Manhattan,Lincoln Square East,Lenox Hill West,12.6609346977529
+Manhattan,Manhattan,Upper East Side South,East Chelsea,21.4480854197349
+Queens,Manhattan,Long Island City/Hunters Point,Upper East Side South,17.6466876971609
+Manhattan,Manhattan,West Chelsea/Hudson Yards,Clinton East,8.73707015130674
+Brooklyn,Brooklyn,Cypress Hills,Crown Heights North,18.0504792332268
+Brooklyn,Queens,Bushwick South,Woodhaven,20.3652941176471
+Manhattan,Manhattan,East Harlem North,Washington Heights South,18.7256226255804
+Queens,Queens,Jackson Heights,Kew Gardens,21.1713641488162
+Manhattan,Manhattan,Murray Hill,Clinton East,13.8696779339914
+Manhattan,Bronx,Marble Hill,Van Cortlandt Village,6.9612632617814
+Queens,Queens,Forest Hills,Ozone Park,19.4346153846154
+Bronx,Queens,Spuyten Duyvil/Kingsbridge,Forest Hills,38.8461538461539
+Brooklyn,Brooklyn,Gravesend,Crown Heights South,35.5982142857143
+Brooklyn,Brooklyn,Brooklyn Heights,Carroll Gardens,8.43275906402674
+Bronx,Bronx,Morrisania/Melrose,East Concourse/Concourse Village,9.56303564774562
+Manhattan,Queens,Gramercy,Long Island City/Hunters Point,16.1860126274891
+Manhattan,Manhattan,Lenox Hill West,Lower East Side,20.8232701630674
+Manhattan,Queens,Central Harlem,Sunnyside,26.4739454094293
+Manhattan,Manhattan,Manhattan Valley,Yorkville East,15.7706744868035
+Brooklyn,Brooklyn,Bedford,East Flatbush/Farragut,20.805412371134
+Manhattan,Brooklyn,Central Harlem,Canarsie,51.2215568862275
+Brooklyn,Manhattan,Park Slope,Seaport,20.7549909255898
+Queens,Manhattan,Woodside,Lower East Side,23.2140575079872
+Brooklyn,Queens,Crown Heights North,Corona,30.0996784565916
